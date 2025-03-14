@@ -1,6 +1,6 @@
 package org.aespinosa.ejemplos.list;
 
-import org.aespinosa.ejemplos.modelo.Alumno;
+import com.axis.alumno.modelo.Alumno;
 
 import java.util.LinkedList;
 import java.util.ListIterator;

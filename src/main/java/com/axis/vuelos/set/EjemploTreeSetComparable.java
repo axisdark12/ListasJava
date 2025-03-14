@@ -1,6 +1,6 @@
 package org.aespinosa.ejemplos.set;
 
-import org.aespinosa.ejemplos.modelo.Alumno;
+import com.axis.alumno.modelo.Alumno;
 
 import static java.util.Comparator.comparing;
 import java.util.Set;

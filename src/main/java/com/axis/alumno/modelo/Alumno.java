@@ -1,4 +1,4 @@
-package org.aespinosa.ejemplos.modelo;
+package com.axis.alumno.modelo;
 
 import java.util.Objects;
 
